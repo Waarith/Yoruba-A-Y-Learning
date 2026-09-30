@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoruba A-Y Learning</title>
+    <link href="./src/output.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-50 text-gray-800">
+
+    <!-- Navbar -->
+    <header class="bg-white shadow-sm">
+        <nav class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+
+            <h1 class="text-2xl font-bold text-green-700">
+                Yoruba A-Y
+            </h1>
+
+            <button
+                class="bg-green-600 text-white px-5 py-2 rounded-lg hover:bg-green-700 transition">
+                Start Learning
+            </button>
+
+        </nav>
+    </header>
+
+
+    <!-- Hero -->
+    <section class="max-w-7xl mx-auto px-6 py-16 text-center">
+
+        <p class="text-green-600 font-semibold mb-3">
+            LEARN • DISCOVER • PRACTICE
+        </p>
+
+        <h2 class="text-4xl md:text-5xl font-bold mb-5">
+            Learn Yoruba Through Pictures
+        </h2>
+
+        <p class="max-w-2xl mx-auto text-gray-600 text-lg">
+            Explore Yoruba letters and learn different objects,
+            animals and things associated with each letter.
+        </p>
+
+    </section>
+
+
+    <!-- Alphabet -->
+    <section class="max-w-5xl mx-auto px-6 pb-16">
+
+        <h3 class="text-2xl font-bold text-center mb-8">
+            Choose a Letter
+        </h3>
+
+        <div
+            id="alphabetContainer"
+            class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-8 gap-4">
+        </div>
+
+    </section>
+
+
+    <!-- Learning Area -->
+    <section
+        id="learningSection"
+        class="max-w-6xl mx-auto px-6 pb-20 hidden">
+
+        <div class="text-center mb-10">
+
+            <div
+                id="selectedLetter"
+                class="text-6xl font-bold text-green-600 mb-3">
+            </div>
+
+            <h3 class="text-2xl font-bold">
+                Things that begin with this letter
+            </h3>
+
+        </div>
+
+
+        <div
+            id="itemsContainer"
+            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">
+        </div>
+
+    </section>
+
+
+    <script src="./script.js"></script>
+
+</body>
+</html>
