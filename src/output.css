@@ -433,6 +433,9 @@
     .md\:grid-cols-8 {
       grid-template-columns: repeat(8, minmax(0, 1fr));
     }
+    .md\:p-3 {
+      padding: calc(var(--spacing) * 3);
+    }
     .md\:text-5xl {
       font-size: var(--text-5xl);
       line-height: var(--tw-leading, var(--text-5xl--line-height));

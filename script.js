@@ -82,7 +82,7 @@ function showLetter(letter) {
             <img
                 src="${item.image}"
                 alt="${item.name}"
-                class="w-full h-52 sm:h-56 md:h-60 object-contain p-3 bg-gray-100"
+                class="w-full h-52 sm:h-56 md:h-60 object-contain p-3"
             >
 
             <div class="p-4 text-center">
