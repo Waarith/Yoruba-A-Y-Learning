@@ -107,11 +107,11 @@ function getItems(letter) {
 const data = {
 
     A: [
-        { name: "Àjà", image: "./images/apple.jpg" },
-        { name: "Àkàrà", image: "./images/aeroplane.jpg" },
-        { name: "Àgùtàn", image: "./images/artwork.jpg" },
-        { name: "Àdìrẹ", image: "./images/ant.jpg" },
-        { name: "Àgbàdo", image: "./images/avocado.jpg" }
+        { name: "Àjà", image: "./images/aja.jpg" },
+        { name: "Àkàrà", image: "./images/akara.jpg" },
+        { name: "Àgùtàn", image: "./images/agutan.png" },
+        { name: "Àdìrẹ", image: "./images/adire.jpg" },
+        { name: "Àgbàdo", image: "./images/agbado.jpg" }
     ],
 
     B: [
