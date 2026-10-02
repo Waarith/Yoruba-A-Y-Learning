@@ -196,7 +196,7 @@ J: [
 
 K: [
     { name: "Kẹ̀kẹ́", image: "./images/bicycle.jpg" },
-    { name: "Kọ́kọ́rọ́", image: "./images/key.jpg" },
+    { name: "Kọ́kọ́rọ́", image: "./images/ant.jpg" },
     { name: "Kòkò", image: "./images/cocoa.jpg" },
     { name: "Kòkòrò", image: "./images/insect.jpg" },
     { name: "Kòtò", image: "./images/pit.jpg" }
