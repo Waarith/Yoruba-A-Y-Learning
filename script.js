@@ -123,10 +123,10 @@ const data = {
 ],
 
 D: [
-    { name: "Dòdò", image: "./images/fried-plantain.jpg" },
+    { name: "Dòdò", image: "./images/dodo.jpg" },
     { name: "Dídì", image: "./images/ice.jpg" },
     { name: "Dẹbà", image: "./images/clay-pot.jpg" },
-    { name: "Dìndìn", image: "./images/fried-meat.jpg" },
+    { name: "Dundun", image: "./images/dundun.jpg" },
     { name: "Dọ́tà", image: "./images/gutter.jpg" }
 ],
 
@@ -140,8 +140,8 @@ E: [
 
 "Ẹ": [
     { name: "Ẹyẹ", image: "./images/bird.jpg" },
-    { name: "Ẹran", image: "./images/animal.jpg" },
-    { name: "Ẹ̀fọ́", image: "./images/vegetables.jpg" },
+    { name: "Ẹran", image: "./images/meat.jpg" },
+    { name: "Ẹ̀fọ́", image: "./images/vegetable.jpg" },
     { name: "Ẹyin", image: "./images/egg.jpg" },
     { name: "Ẹ̀mí", image: "./images/shea-tree.jpg" }
 ],
@@ -155,19 +155,19 @@ F: [
 ],
 
 G: [
-    { name: "Gèlè", image: "./images/headtie.jpg" },
+    { name: "Gèlè", image: "./images/gele.jpg" },
     { name: "Gálà", image: "./images/antelope.jpg" },
     { name: "Gíráàsì", image: "./images/glass.jpg" },
     { name: "Gidì", image: "./images/wall.jpg" },
-    { name: "Gárí", image: "./images/garri.jpg" }
+    { name: "Gárí", image: "./images/gaari.jpg" }
 ],
 
-Gb: [
+GB: [
     { name: "Gbáguda", image: "./images/cassava.jpg" },
-    { name: "Gàngan", image: "./images/talking-drum.jpg" },
+    { name: "Gàngan", image: "./images/gangan.jpg" },
     { name: "Gbọ̀ngàn", image: "./images/hall.jpg" },
-    { name: "Gbanjo", image: "./images/clothes.jpg" },
-    { name: "Gbanja", image: "./images/kolanut.jpg" }
+    { name: "Gbanjo", image: "./images/cloth.jpg" },
+    { name: "Gbanja", image: "./images/obi.jpg" }
 ],
 
 H: [
@@ -244,7 +244,7 @@ O: [
 
 P: [
     { name: "Pépéye", image: "./images/duck.jpg" },
-    { name: "Pàkí", image: "./images/cassava.jpg" },
+    { name: "Pàkí", image: "../images/cassava" },
     { name: "Pákó", image: "./images/plank.jpg" },
     { name: "Pásán", image: "./images/whip.jpg" },
     { name: "Pápá", image: "./images/field.jpg" }
