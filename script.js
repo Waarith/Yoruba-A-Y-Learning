@@ -115,196 +115,196 @@ const data = {
     ],
 
     B: [
-        { name: "Bàtà", image: "./images/ball.jpg" },
-        { name: "Bàtàkù", image: "./images/book.jpg" },
-        { name: "Bọ́ọ̀lù", image: "./images/bird.jpg" },
-        { name: "Bùrẹ́dì", image: "./images/bus.jpg" },
-        { name: "Bàtà", image: "./images/banana.jpg" }
-    ],
+    { name: "Bàtà", image: "./images/bata.jpg" },
+    { name: "Bọ́ọ̀lù", image: "./images/boolu.jpg" },
+    { name: "Búrẹ́dì", image: "./images/bread.jpg" },
+    { name: "Bàbà", image: "./images/baba.jpg" },
+    { name: "Báàgì", image: "./images/bag.jpg" }
+],
 
-    D: [
-        { name: "Dàńgóte", image: "./images/dog.jpg" },
-        { name: "Dàùda", image: "./images/door.jpg" },
-        { name: "Dìrámà", image: "./images/drum.jpg" },
-        { name: "Dọ́là", image: "./images/doll.jpg" },
-        { name: "Dùndún", image: "./images/duck.jpg" }
-    ],
+D: [
+    { name: "Dòdò", image: "./images/fried-plantain.jpg" },
+    { name: "Dídì", image: "./images/ice.jpg" },
+    { name: "Dẹbà", image: "./images/clay-pot.jpg" },
+    { name: "Dìndìn", image: "./images/fried-meat.jpg" },
+    { name: "Dọ́tà", image: "./images/gutter.jpg" }
+],
 
-    E: [
-        { name: "Ẹ̀fọ́", image: "./images/egg.jpg" },
-        { name: "Ẹ̀wà", image: "./images/elephant.jpg" },
-        { name: "Ẹyẹ", image: "./images/eagle.jpg" },
-        { name: "Ẹja", image: "./images/envelope.jpg" },
-        { name: "Epo", image: "./images/engine.jpg" }
-    ],
+E: [
+    { name: "Eku", image: "./images/rat.jpg" },
+    { name: "Eja", image: "./images/fish.jpg" },
+    { name: "Eré", image: "./images/statue.jpg" },
+    { name: "Ewé", image: "./images/leaf.jpg" },
+    { name: "Egúngún", image: "./images/bone.jpg" }
+],
 
-    "Ẹ": [
-        { name: "Ẹja", image: "./images/fish.jpg" },
-        { name: "Ẹyin", image: "./images/egg.jpg" },
-        { name: "Ẹfọ", image: "./images/vegetable.jpg" },
-        { name: "Ẹṣin", image: "./images/horse.jpg" },
-        { name: "Ẹkuru", image: "./images/ekuru.jpg" }
-    ],
+"Ẹ": [
+    { name: "Ẹyẹ", image: "./images/bird.jpg" },
+    { name: "Ẹran", image: "./images/animal.jpg" },
+    { name: "Ẹ̀fọ́", image: "./images/vegetables.jpg" },
+    { name: "Ẹyin", image: "./images/egg.jpg" },
+    { name: "Ẹ̀mí", image: "./images/shea-tree.jpg" }
+],
 
-    F: [
-        { name: "Fìlà", image: "./images/fish.jpg" },
-        { name: "Fìtílà", image: "./images/flower.jpg" },
-        { name: "Fèrè", image: "./images/fan.jpg" },
-        { name: "Fọ́tò", image: "./images/frog.jpg" },
-        { name: "Fìlàṣì", image: "./images/flag.jpg" }
-    ],
+F: [
+    { name: "Fìlà", image: "./images/cap.jpg" },
+    { name: "Fasá", image: "./images/basin.jpg" },
+    { name: "Fídíò", image: "./images/video-player.jpg" },
+    { name: "Fèrèsé", image: "./images/window.jpg" },
+    { name: "Fọ̀nà", image: "./images/phone.jpg" }
+],
 
-    G: [
-        { name: "Gọ́gọ́", image: "./images/goat.jpg" },
-        { name: "Gọ́tà", image: "./images/guitar.jpg" },
-        { name: "Gèlè", image: "./images/glass.jpg" },
-        { name: "Gọ́dọ̀", image: "./images/globe.jpg" },
-        { name: "Gúúsù", image: "./images/grapes.jpg" }
-    ],
+G: [
+    { name: "Gèlè", image: "./images/headtie.jpg" },
+    { name: "Gálà", image: "./images/antelope.jpg" },
+    { name: "Gíráàsì", image: "./images/glass.jpg" },
+    { name: "Gidì", image: "./images/wall.jpg" },
+    { name: "Gárí", image: "./images/garri.jpg" }
+],
 
-    GB: [
-    { name: "Gbà", image: "./images/accept.jpg" },
-    { name: "Gbogbo", image: "./images/all.jpg" },
-    { name: "Gbìn", image: "./images/plant.jpg" },
-    { name: "Gbẹ", image: "./images/dry.jpg" },
-    { name: "Gbóná", image: "./images/hot.jpg" }
-    ],
+Gb: [
+    { name: "Gbáguda", image: "./images/cassava.jpg" },
+    { name: "Gàngan", image: "./images/talking-drum.jpg" },
+    { name: "Gbọ̀ngàn", image: "./images/hall.jpg" },
+    { name: "Gbanjo", image: "./images/clothes.jpg" },
+    { name: "Gbanja", image: "./images/kolanut.jpg" }
+],
 
-    H: [
-    { name: "Hóró", image: "./images/hole.jpg" },
-    { name: "Hámù", image: "./images/hammer.jpg" },
-    { name: "Hótẹ́lì", image: "./images/hotel.jpg" },
-    { name: "Háḿbágà", image: "./images/hamburger.jpg" },
-    { name: "Hẹ́ẹ̀lì", image: "./images/hill.jpg" }
-    ],
+H: [
+    { name: "Hámà", image: "./images/hammer.jpg" },
+    { name: "Hẹ́ndiáṣíìfù", image: "./images/handkerchief.jpg" },
+    { name: "Hẹlikópútà", image: "./images/helicopter.jpg" },
+    { name: "Hóòbù", image: "./images/stove.jpg" },
+    { name: "Họ́ra", image: "./images/clock.jpg" }
+],
 
-    I: [
-    { name: "Ilé", image: "./images/house.jpg" },
-    { name: "Ìkòkò", image: "./images/pot.jpg" },
-    { name: "Ìgò", image: "./images/bottle.jpg" },
-    { name: "Ìrẹsì", image: "./images/rice.jpg" },
-    { name: "Ìwé", image: "./images/book.jpg" }
-    ],
+I: [
+    { name: "Ìlù", image: "./images/drum.jpg" },
+    { name: "Iṣu", image: "./images/yam.jpg" },
+    { name: "Igi", image: "./images/tree.jpg" },
+    { name: "Igo", image: "./images/bottle.jpg" },
+    { name: "Irún", image: "./images/hair.jpg" }
+],
 
-    J: [
-    { name: "Jùbà", image: "./images/greeting.jpg" },
-    { name: "Jà", image: "./images/fight.jpg" },
-    { name: "Jẹ", image: "./images/eat.jpg" },
-    { name: "Jókòó", image: "./images/sit.jpg" },
-    { name: "Jìnà", image: "./images/far.jpg" }
-    ],
+J: [
+    { name: "Jígí", image: "./images/mirror.jpg" },
+    { name: "Jàgà", image: "./images/bicycle-handle.jpg" },
+    { name: "Jámù", image: "./images/jam.jpg" },
+    { name: "Juujuu", image: "./images/amulet.jpg" },
+    { name: "Jeep", image: "./images/jeep.jpg" }
+],
 
-    K: [
+K: [
     { name: "Kẹ̀kẹ́", image: "./images/bicycle.jpg" },
-    { name: "Kọ́ǹpútà", image: "./images/computer.jpg" },
-    { name: "Kàkà", image: "./images/rather.jpg" },
-    { name: "Kẹ́tẹ́kẹ́tẹ́", image: "./images/tricycle.jpg" },
-    { name: "Kòkòrò", image: "./images/insect.jpg" }
-    ],
+    { name: "Kọ́kọ́rọ́", image: "./images/key.jpg" },
+    { name: "Kòkò", image: "./images/cocoa.jpg" },
+    { name: "Kòkòrò", image: "./images/insect.jpg" },
+    { name: "Kòtò", image: "./images/pit.jpg" }
+],
 
-    L: [
-    { name: "Lẹ́tà", image: "./images/letter.jpg" },
-    { name: "Lọ́kọ̀", image: "./images/vehicle.jpg" },
-    { name: "Lẹ́mọ́nù", image: "./images/lemon.jpg" },
-    { name: "Lábẹ́", image: "./images/under.jpg" },
-    { name: "Lónìí", image: "./images/today.jpg" }
-    ],
+L: [
+    { name: "Lágídígbà", image: "./images/waist-beads.jpg" },
+    { name: "Lámilámi", image: "./images/dragonfly.jpg" },
+    { name: "Láàbú", image: "./images/wood-ash.jpg" },
+    { name: "Lẹ́mọ́ọ̀nù", image: "./images/lemon.jpg" },
+    { name: "Lẹ́tà", image: "./images/letter.jpg" }
+],
 
-    M: [
-    { name: "Màmá", image: "./images/mother.jpg" },
-    { name: "Màlúù", image: "./images/cow.jpg" },
+M: [
+    { name: "Màálù", image: "./images/cow.jpg" },
     { name: "Mọ́tò", image: "./images/car.jpg" },
-    { name: "Mọ̀", image: "./images/know.jpg" },
-    { name: "Mọ́ńkì", image: "./images/monkey.jpg" }
-    ],
+    { name: "Mílíkì", image: "./images/milk.jpg" },
+    { name: "Mẹ́tàlì", image: "./images/metal.jpg" },
+    { name: "Mágàsínì", image: "./images/magazine.jpg" }
+],
 
-    N: [
-    { name: "Nǹkan", image: "./images/thing.jpg" },
-    { name: "Nà", image: "./images/road.jpg" },
-    { name: "Níbẹ̀", image: "./images/there.jpg" },
-    { name: "Nínú", image: "./images/inside.jpg" },
-    { name: "Nàìjà", image: "./images/nigeria.jpg" }    
-    ],
+N: [
+    { name: "Náírà", image: "./images/naira.jpg" },
+    { name: "Nẹ́ẹ̀tì", image: "./images/net.jpg" },
+    { name: "Níndù", image: "./images/needle.jpg" },
+    { name: "Nọ́ọ̀sì", image: "./images/nurse.jpg" },
+    { name: "Nóòtbúùkù", image: "./images/notebook.jpg" }
+],
 
-    O: [
-    { name: "Ọ̀bẹ", image: "./images/knife.jpg" },
-    { name: "Ọkọ", image: "./images/vehicle.jpg" },
+O: [
+    { name: "Ológbò", image: "./images/cat.jpg" },
+    { name: "Ògèdè", image: "./images/banana.jpg" },
     { name: "Omi", image: "./images/water.jpg" },
-    { name: "Ògèdèmgbé", image: "./images/plantain.jpg" },
-    { name: "Oúnjẹ", image: "./images/food.jpg" }
-    ],
+    { name: "Òkúta", image: "./images/stone.jpg" },
+    { name: "Òrùka", image: "./images/ring.jpg" }
+],
 
-    Ọ: [
-    { name: "Ọmọ", image: "./images/child.jpg" },
-    { name: "Ọ̀gẹ̀dẹ̀", image: "./images/banana.jpg" },
-    { name: "Ọ̀rẹ́", image: "./images/friend.jpg" },
-    { name: "Ọ̀pá", image: "./images/stick.jpg" },
-    { name: "Ọ̀pẹ̀", image: "./images/palm-tree.jpg" }
-    ],
+"Ọ": [
+    { name: "Ọ̀pẹ", image: "./images/palm-tree.jpg" },
+    { name: "Ọ̀bẹ", image: "./images/knife.jpg" },
+    { name: "Ọbọ", image: "./images/monkey.jpg" },
+    { name: "Ọmọlángidì", image: "./images/wooden-doll.jpg" },
+    { name: "Ọwọ́", image: "./images/broom.jpg" }
+],
 
-        P: [
-    { name: "Pàtà", image: "./images/important.jpg" },
-    { name: "Pẹ̀tẹ́lẹ̀", image: "./images/plain.jpg" },
-    { name: "Pàtàkì", image: "./images/important.jpg" },
-    { name: "Pẹ̀lẹ́", image: "./images/gently.jpg" },
-    { name: "Pópó", image: "./images/papaya.jpg" }
-    ],
+P: [
+    { name: "Pépéye", image: "./images/duck.jpg" },
+    { name: "Pàkí", image: "./images/cassava.jpg" },
+    { name: "Pákó", image: "./images/plank.jpg" },
+    { name: "Pásán", image: "./images/whip.jpg" },
+    { name: "Pápá", image: "./images/field.jpg" }
+],
 
-    R: [
-    { name: "Rẹ́", image: "./images/wet.jpg" },
-    { name: "Rìn", image: "./images/walk.jpg" },
-    { name: "Rẹ́rìn", image: "./images/smile.jpg" },
-    { name: "Rò", image: "./images/think.jpg" },
-    { name: "Rán", image: "./images/send.jpg" }
-    ],
+R: [
+    { name: "Ràkunmí", image: "./images/camel.jpg" },
+    { name: "Rédíò", image: "./images/radio.jpg" },
+    { name: "Rọ́bà", image: "./images/container.jpg" },
+    { name: "Rúlà", image: "./images/ruler.jpg" },
+    { name: "Rẹ́fírí", image: "./images/whistle.jpg" }
+],
 
-    S: [
-    { name: "Sàgà", image: "./images/sacrifice.jpg" },
-    { name: "Sùúrù", image: "./images/patience.jpg" },
-    { name: "Sùn", image: "./images/sleep.jpg" },
-    { name: "Sọ", image: "./images/speak.jpg" },
-    { name: "Sẹ́", image: "./images/do.jpg" }
-    ],
+S: [
+    { name: "Sálúbàtà", image: "./images/slippers.jpg" },
+    { name: "Sálàbà", image: "./images/salad.jpg" },
+    { name: "Sẹ́ẹ̀tì", image: "./images/shirt.jpg" },
+    { name: "Sáàgì", image: "./images/sack.jpg" },
+    { name: "Sọ́ọ̀sì", image: "./images/sauce.jpg" }
+],
 
-    Ṣ: [
-    { name: "Ṣá", image: "./images/wakeup.jpg" },
-    { name: "Ṣọ́", image: "./images/guard.jpg" },
-    { name: "Ṣùgbọ́n", image: "./images/but.jpg" },
-    { name: "Ṣuga", image: "./images/sugar.jpg" },
-    { name: "Ṣọ́ọ̀bù", image: "./images/shop.jpg" }
-    ],
+"Ṣ": [
+    { name: "Ṣíbí", image: "./images/spoon.jpg" },
+    { name: "Ṣòkòtò", image: "./images/trousers.jpg" },
+    { name: "Ṣẹ́kẹ́ṣẹ́kẹ́", image: "./images/handcuffs.jpg" },
+    { name: "Ṣáṣárá", image: "./images/broom.jpg" },
+    { name: "Ṣayaba", image: "./images/cage.jpg" }
+],
 
-    T: [
-    { name: "Tábìlì", image: "./images/table.jpg" },
-    { name: "Tà", image: "./images/sell.jpg" },
-    { name: "Tẹ́lẹ̀", image: "./images/before.jpg" },
-    { name: "Tí", image: "./images/that.jpg" },
-    { name: "Tọ́kọ́", image: "./images/first.jpg" }
-    ],
+T: [
+    { name: "Táíà", image: "./images/tyre.jpg" },
+    { name: "Táblì", image: "./images/table.jpg" },
+    { name: "Tata", image: "./images/grasshopper.jpg" },
+    { name: "Tóṣì", image: "./images/torchlight.jpg" },
+    { name: "Tófe", image: "./images/toffee.jpg" }
+],
 
-    U: [
-    { name: "Uà", image: "./images/cry.jpg" },
-    { name: "Ujú", image: "./images/eye.jpg" },
-    { name: "Úgì", image: "./images/pap.jpg" },
-    { name: "Ùn", image: "./images/sleep.jpg" },
-    { name: "Ùwà", image: "./images/character.jpg" }
-    ],
+U: [
+    { name: "Ulé", image: "./images/house.jpg" },
+    { name: "Uṣu", image: "./images/yam.jpg" },
+    { name: "Ugi", image: "./images/tree.jpg" },
+    { name: "Ugo", image: "./images/bottle.jpg" },
+    { name: "Ugbá", image: "./images/calabash.jpg" }
+],
 
-    W: [
-    { name: "Wà", image: "./images/exist.jpg" },
-    { name: "Wá", image: "./images/come.jpg" },
-    { name: "Wẹ̀", image: "./images/wash.jpg" },
-    { name: "Wúrà", image: "./images/gold.jpg" },
-    { name: "Wọ́n", image: "./images/they.jpg" }
-    ],
+W: [
+    { name: "Wàrà", image: "./images/cheese.jpg" },
+    { name: "Wálà", image: "./images/slate.jpg" },
+    { name: "Wọ́ọ̀tì", image: "./images/watch.jpg" },
+    { name: "Wáyà", image: "./images/wire.jpg" },
+    { name: "Wíwà", image: "./images/wardrobe.jpg" }
+],
 
-    Y: [
-    { name: "Yà", image: "./images/separate.jpg" },
-    { name: "Yẹ", image: "./images/suitable.jpg" },
-    { name: "Yí", image: "./images/turn.jpg" },
-    { name: "Yọ̀", image: "./images/remove.jpg" },
-    { name: "Yàn", image: "./images/choose.jpg" }
-    ],
+Y: [
+    { name: "Yánmùyánmú", image: "./images/mosquito.jpg" },
+    { name: "Yọ̀bọ́", image: "./images/salt.jpg" },
+    { name: "Yànrìn", image: "./images/sand.jpg" },
+    { name: "Yánrin", image: "./images/wild-spinach.jpg" },
+    { name: "Yàbà", image: "./images/plantain.jpg" }
+],
 
 };
 
