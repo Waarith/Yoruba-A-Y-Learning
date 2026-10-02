@@ -235,10 +235,10 @@ O: [
 ],
 
 "Ọ": [
-    { name: "Ọ̀pẹ", image: "./images/palm-tree.jpg" },
+    { name: "Ọ̀pẹ", image: "./images/palm tree.jpg" },
     { name: "Ọ̀bẹ", image: "./images/knife.jpg" },
     { name: "Ọbọ", image: "./images/monkey.jpg" },
-    { name: "Ọmọlángidì", image: "./images/wooden-doll.jpg" },
+    { name: "Ọmọlángidì", image: "./images/dull.jpg" },
     { name: "Ọwọ́", image: "./images/broom.jpg" }
 ],
 
